@@ -1,0 +1,723 @@
+2017年 07月 06日 星期四 13:02:37 UTC
+:
+ftp://ftp.vim.org/pub/vim/README
+http://www.iciba.com/hello
+2017年 07月 06日 星期四 21:02:48 CST
+Hello Shit
+world
+/bin/bash: wnt: command not found
+
+grey
+
+	ChJeffap
+	grey 
+	
+	from
+	bs4
+2017年 07月 06日 星期四 20:58:23 CST
+checkStockPriceFor002299.sh
+getWeatherForShenzhen.py
+getWeatherForXiamen.py
+otherfile
+acpi
+adduser.conf
+alternatives
+anacrontab
+apache2
+apg.conf
+apm
+apparmor
+apparmor.d
+apport
+apt
+aptdaemon
+armagetronad
+at-spi2
+avahi
+bash.bashrc
+bash_completion
+bash_completion.d
+bindresvport.blacklist
+blkid.conf
+blkid.tab
+bluetooth
+bonobo-activation
+brlapi.key
+brltty
+brltty.conf
+ca-certificates
+ca-certificates.conf
+ca-certificates.conf.dpkg-old
+calendar
+chatscripts
+checkinstallrc
+colord.conf
+compizconfig
+ConsoleKit
+console-setup
+cracklib
+cron.d
+cron.daily
+cron.hourly
+cron.monthly
+crontab
+cron.weekly
+cups
+cupshelpers
+dbus-1
+dconf
+debconf.conf
+debian_version
+default
+deluser.conf
+depmod.d
+dhcp
+dictionaries-common
+dnsmasq.d
+doc-base
+dpkg
+drirc
+emacs
+environment
+firefox
+fonts
+fstab
+fstab.d
+fstab-ntfs-config-save
+fuse.conf
+gai.conf
+gconf
+gdb
+ghostscript
+gnome
+gnome-app-install
+gnome-vfs-2.0
+groff
+group
+group-
+grub.d
+gshadow
+gshadow-
+gtk-2.0
+gtk-3.0
+hdparm.conf
+host.conf
+hostname
+hosts
+hosts.allow
+hosts.deny
+hp
+ifplugd
+ImageMagick
+init
+init.d
+initramfs-tools
+inputrc
+insserv
+insserv.conf
+insserv.conf.d
+iproute2
+issue
+issue.net
+java-7-openjdk
+kbd
+kernel
+kernel-img.conf
+kerneloops.conf
+ldap
+ld.so.cache
+ld.so.conf
+ld.so.conf.d
+legal
+libaudit.conf
+libnl-3
+libpaper.d
+libreoffice
+lightdm
+lighttpd
+lintianrc
+locale.alias
+localtime
+logcheck
+login.defs
+logrotate.conf
+logrotate.d
+lsb-release
+ltrace.conf
+magic
+magic.mime
+mailcap
+mailcap.order
+manpath.config
+matplotlibrc
+menu
+menu-methods
+mime.types
+mke2fs.conf
+modprobe.d
+modules
+modules-load.d
+mtab
+mtab.fuselock
+mtools.conf
+nanorc
+netscsid.conf
+network
+NetworkManager
+networks
+newt
+nsswitch.conf
+obex-data-server
+odbc.ini
+odbcinst.ini
+openal
+opt
+os-release
+pam.conf
+pam.d
+papersize
+passwd
+passwd-
+pcmcia
+perl
+pki
+pm
+pnm2ppa.conf
+polkit-1
+popularity-contest.conf
+ppp
+printcap
+profile
+profile.d
+protocols
+pulse
+python
+python2.7
+python3
+python3.4
+rc0.d
+rc1.d
+rc2.d
+rc3.d
+rc4.d
+rc5.d
+rc6.d
+rc.local
+rcS.d
+resolvconf
+resolv.conf
+rmt
+rpc
+rsyslog.conf
+rsyslog.d
+samba
+sane.d
+securetty
+security
+selinux
+sensors3.conf
+sensors.d
+services
+sgml
+shadow
+shadow-
+shells
+signond.conf
+signon-ui
+skel
+sound
+speech-dispatcher
+ssh
+ssl
+subgid
+subgid-
+subuid
+subuid-
+sudoers
+sudoers.d
+su-to-rootrc
+sysctl.conf
+sysctl.d
+systemd
+terminfo
+texmf
+thermald
+thunderbird
+timezone
+ucf.conf
+udev
+udisks2
+ufw
+updatedb.conf
+update-manager
+update-motd.d
+update-notifier
+UPower
+upstart-xsessions
+usb_modeswitch.conf
+usb_modeswitch.d
+vim
+vtrgb
+wgetrc
+wodim.conf
+wpa_supplicant
+X11
+xdg
+xml
+xul-ext
+zsh_command_not_found
+acpi
+adduser.conf
+alternatives
+anacrontab
+apache2
+apg.conf
+apm
+apparmor
+apparmor.d
+apport
+apt
+aptdaemon
+armagetronad
+at-spi2
+avahi
+bash.bashrc
+bash_completion
+bash_completion.d
+bindresvport.blacklist
+blkid.conf
+blkid.tab
+bluetooth
+bonobo-activation
+brlapi.key
+brltty
+brltty.conf
+ca-certificates
+ca-certificates.conf
+ca-certificates.conf.dpkg-old
+calendar
+chatscripts
+checkinstallrc
+colord.conf
+compizconfig
+ConsoleKit
+console-setup
+cracklib
+cron.d
+cron.daily
+cron.hourly
+cron.monthly
+crontab
+cron.weekly
+cups
+cupshelpers
+dbus-1
+dconf
+debconf.conf
+debian_version
+default
+deluser.conf
+depmod.d
+dhcp
+dictionaries-common
+dnsmasq.d
+doc-base
+dpkg
+drirc
+emacs
+environment
+firefox
+fonts
+fstab
+fstab.d
+fstab-ntfs-config-save
+fuse.conf
+gai.conf
+gconf
+gdb
+ghostscript
+gnome
+gnome-app-install
+gnome-vfs-2.0
+groff
+group
+group-
+grub.d
+gshadow
+gshadow-
+gtk-2.0
+gtk-3.0
+hdparm.conf
+host.conf
+hostname
+hosts
+hosts.allow
+hosts.deny
+hp
+ifplugd
+ImageMagick
+init
+init.d
+initramfs-tools
+inputrc
+insserv
+insserv.conf
+insserv.conf.d
+iproute2
+issue
+issue.net
+java-7-openjdk
+kbd
+kernel
+kernel-img.conf
+kerneloops.conf
+ldap
+ld.so.cache
+ld.so.conf
+ld.so.conf.d
+legal
+libaudit.conf
+libnl-3
+libpaper.d
+libreoffice
+lightdm
+lighttpd
+lintianrc
+locale.alias
+localtime
+logcheck
+login.defs
+logrotate.conf
+logrotate.d
+lsb-release
+ltrace.conf
+magic
+magic.mime
+mailcap
+mailcap.order
+manpath.config
+matplotlibrc
+menu
+menu-methods
+mime.types
+mke2fs.conf
+modprobe.d
+modules
+modules-load.d
+mtab
+mtab.fuselock
+mtools.conf
+nanorc
+netscsid.conf
+network
+NetworkManager
+networks
+newt
+nsswitch.conf
+obex-data-server
+odbc.ini
+odbcinst.ini
+openal
+opt
+os-release
+pam.conf
+pam.d
+papersize
+passwd
+passwd-
+pcmcia
+perl
+pki
+pm
+pnm2ppa.conf
+polkit-1
+popularity-contest.conf
+ppp
+printcap
+profile
+profile.d
+protocols
+pulse
+python
+python2.7
+python3
+python3.4
+rc0.d
+rc1.d
+rc2.d
+rc3.d
+rc4.d
+rc5.d
+rc6.d
+rc.local
+rcS.d
+resolvconf
+resolv.conf
+rmt
+rpc
+rsyslog.conf
+rsyslog.d
+samba
+sane.d
+securetty
+security
+selinux
+sensors3.conf
+sensors.d
+services
+sgml
+shadow
+shadow-
+shells
+signond.conf
+signon-ui
+skel
+sound
+speech-dispatcher
+ssh
+ssl
+subgid
+subgid-
+subuid
+subuid-
+sudoers
+sudoers.d
+su-to-rootrc
+sysctl.conf
+sysctl.d
+systemd
+terminfo
+texmf
+thermald
+thunderbird
+timezone
+ucf.conf
+udev
+udisks2
+ufw
+updatedb.conf
+update-manager
+update-motd.d
+update-notifier
+UPower
+upstart-xsessions
+usb_modeswitch.conf
+usb_modeswitch.d
+vim
+vtrgb
+wgetrc
+wodim.conf
+wpa_supplicant
+X11
+xdg
+xml
+xul-ext
+zsh_command_not_found
+	BeautifulSoup
+	from
+	urllib
+	import
+	request
+	import
+	time 
+
+	# url
+	# =
+	# "https://weather.com/weather/today/l/CHXX0140:1:CH"
+	url =
+	"http://www.weather.com.cn/weather/101230201.shtml"
+	content
+	=
+	request.urlopen(url).read()
+	soup =
+	BeautifulSoup(content)
+
+	# location
+	# =
+	# soup.find("h1",
+	# class_="h4
+	# today_nowcard-location").contents[0]
+	# tm =
+	# time.strftime('%X
+	# %Z')
+	# temperature
+	# =
+	# soup.find("div",
+	# class_="today_nowcard-temp").span.contents[0]
+	# temperature
+	# =
+	# int((int(temperature)
+	# -
+	# 32)
+	# * 5
+	# / 9)
+	# feel_like
+	# =
+	# soup.find("span",
+	# class_="deg-feels").contents[0]
+	# feel_like
+	# =
+	# int((int(feel_like)
+	# -
+	# 32)
+	# * 5
+	# / 9)
+
+	location
+	= "
+	深圳天气"
+	tm =
+	time.strftime("%X
+	%Z")
+	%temperature
+	%=
+	%soup.find_all("li",
+	%class_="on")[1].find("p",
+	%class_="tem").i.contents[0]
+	%description
+	%=
+	%soup.find_all("li",
+	%class_="on")[1].find("p",
+	%class_="wea").contents[0]
+	%highTemp
+	%=
+	%soup.find("ul",
+	%class_="t
+	%clearfix").find_all("li")[1].find("p",
+	%class_="tem").span.contents[0]
+	%lowTemp
+	%=
+	%soup.find("ul",
+	%class_="t
+	%clearfix").find_all("li")[1].find("p",
+	%class_="tem").i.contents[0]
+	%descrip2
+	%=
+	%soup.find("ul",
+	%class_="t
+	%clearfix").find_all("li")[1].find("p",
+	%class_="wea").contents[0]
+	%print()
+	%print(location)
+	%print("现在:
+	%",
+	%temperature,
+	%"
+	%",
+	%description)
+	%print("明天:",
+	%highTemp,
+	%" /",
+	%lowTemp,
+	%" ",
+	%descrip2)
+	# print("feels
+	# like
+	# ",
+	# feel_like,
+	# '°C',
+	# sep='')
+	grJeffey
+	
+	grJeffey
+	
+	ChJeffap
+	grey
+
+grey from
+bs4 import
+BeautifulSoup
+from
+urllib
+import
+request
+import
+time 
+
+# url =
+# "https://weather.com/weather/today/l/CHXX0140:1:CH"
+url =
+"http://www.weather.com.cn/weather/101230201.shtml"
+content =
+request.urlopen(url).read()
+soup =
+BeautifulSoup(content)
+
+# location
+# =
+# soup.find("h1",
+# class_="h4
+# today_nowcard-location").contents[0]
+# tm =
+# time.strftime('%X
+# %Z')
+# temperature
+# =
+# soup.find("div",
+# class_="today_nowcard-temp").span.contents[0]
+# temperature
+# =
+# int((int(temperature)
+# - 32) *
+# 5 / 9)
+# feel_like
+# =
+# soup.find("span",
+# class_="deg-feels").contents[0]
+# feel_like
+# =
+# int((int(feel_like)
+# - 32) *
+# 5 / 9)
+
+location =
+"
+深圳天气"
+tm =
+time.strftime("%X
+%Z")
+%temperature
+%=
+%soup.find_all("li",
+%class_="on")[1].find("p",
+%class_="tem").i.contents[0]
+%description
+%=
+%soup.find_all("li",
+%class_="on")[1].find("p",
+%class_="wea").contents[0]
+%highTemp
+%=
+%soup.find("ul",
+%class_="t
+%clearfix").find_all("li")[1].find("p",
+%class_="tem").span.contents[0]
+%lowTemp =
+%soup.find("ul",
+%class_="t
+%clearfix").find_all("li")[1].find("p",
+%class_="tem").i.contents[0]
+%descrip2
+%=
+%soup.find("ul",
+%class_="t
+%clearfix").find_all("li")[1].find("p",
+%class_="wea").contents[0]
+%print()
+%print(location)
+%print("现在:
+%",
+%temperature,
+%"   ",
+%description)
+%print("明天:",
+%highTemp,
+%" /",
+%" ",
+%descrip2)
+%lowTemp,
+# print("feels
+# like ",
+# feel_like,
+# '°C',
+# sep='')
